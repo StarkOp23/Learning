@@ -1,0 +1,6 @@
+# Git Ignore
+
+# Ignore the virtual environment
+.DS_Store
+__pycache__
+venv
